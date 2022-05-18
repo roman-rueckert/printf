@@ -15,7 +15,7 @@
 int main (void)
 {
 	printf(RED("H")GREEN("e")YELLOW("l")BLUE("l")MAGENTA("o")" "BLUE("W")CYAN("o")GREEN("r")RED("l")YELLOW("d")GRAY("!")"\n");
-	printf(WHITE_BG(BLUE("MSV"))BLUE_BG(WHITE("Duisburg"))"\n");
+	printf(BLUE_BG(WHITE("MSV"))WHITE_BG(BLUE("Duisburg"))"\n");
 
 	return 0;
 }
