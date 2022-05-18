@@ -2,7 +2,7 @@
 void main(){
 	
 	int a=10;
-	float f=2.598;
+	float b=2.598;
 	char c='C';
 	char d[]="Die schoene neue Welt.";
 	
